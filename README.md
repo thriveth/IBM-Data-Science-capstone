@@ -6,29 +6,20 @@ This repository contains the lab notebooks and source file for the interactive d
 
 # Labs and structure
 ## Week 1 
-### Lab 1: Data Collection with API
-- [Notebook](./Lab\ 1\ Data\ collection\ with\ api.ipynb)
+- Lab 1: Data Collection with API [Notebook](Lab_1_Data_collection_with_API.ipynb)
+- Lab 2: Data Collection with Web Scraping [Notebook](Lab_2_Webscraping.ipynb)
+- Lab 3: Data wrangling [Notebook](Lab_3_Data_wrangling.ipynb)
 
-### Lab 2: Data Collection with Web Scraping
-- Notebook here
-
-### Lab 3: Data wrangling
-- Notebook here
-
-## Week 4
-### Lab 4: Exploratory Data Analysis using SQL
-- Notebook here
-
-### Lab 5: Exploratory Data Analysis with visualization
-- Notebook here
-- Python source code for dashboard
+## Week 2
+- Lab 4: Exploratory Data Analysis using SQL [Notebook](Lab_4_EDA_with_SQL.ipynb)
+- Lab 5: Exploratory Data Analysis with visualization [Notebook](Lab_5_EDA_with_visualization)
 
 ## Week 3
-### Lab 6: Interactive Visual Analysis with Folium
-### Lab 7: An interactive dashboard with Plotly Dash
+- Lab 6: Interactive Visual Analysis with Folium [Notebook](Lab_6_Interactive_visualization_with_Folium.ipynb)
+- Lab 7: An interactive dashboard with Plotly Dash [Python source](Lab_7_spacex_dash_app.py)
 
 ## Week 4
-### Lab 8: Predictive analysis with Machine Learning
+- Lab 8: Predictive analysis with Machine Learning [Notebook](Lab_8_Predictive_analysis_with_Machine_Learning.ipynb)
 
 ## Week 5 
 ### Final presentation
