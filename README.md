@@ -12,7 +12,7 @@ This repository contains the lab notebooks and source file for the interactive d
 
 ## Week 2
 - Lab 4: Exploratory Data Analysis using SQL [Notebook](Lab_4_EDA_with_SQL.ipynb)
-- Lab 5: Exploratory Data Analysis with visualization [Notebook](Lab_5_EDA_with_visualization)
+- Lab 5: Exploratory Data Analysis with visualization [Notebook](Lab_5_EDA_with_visualization.ipynb)
 
 ## Week 3
 - Lab 6: Interactive Visual Analysis with Folium [Notebook](Lab_6_Interactive_visualization_with_Folium.ipynb)
