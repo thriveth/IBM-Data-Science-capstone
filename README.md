@@ -7,6 +7,7 @@ This repository contains the lab notebooks and source file for the interactive d
 # Labs and structure
 ## Week 1 
 ### Lab 1: Data Collection with API
+- [Notebook](./Lab\ 1\ Data\ collection\ with\ api.ipynb)
 
 ### Lab 2: Data Collection with Web Scraping
 - Notebook here
